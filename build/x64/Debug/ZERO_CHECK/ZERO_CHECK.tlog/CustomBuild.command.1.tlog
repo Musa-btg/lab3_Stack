@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\STACK\PROJECT_STACK\BUILD\CMAKEFILES\C259FC31BAD216E027AB12964EB8CD37\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/user/Desktop/Stack/project_stack -BC:/Users/user/Desktop/Stack/project_stack/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/user/Desktop/Stack/project_stack/build/STACK.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

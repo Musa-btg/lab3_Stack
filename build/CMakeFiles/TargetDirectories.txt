@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/Stack/project_stack/build/CMakeFiles/stack_app.dir
+C:/Users/user/Desktop/Stack/project_stack/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/Stack/project_stack/build/CMakeFiles/ZERO_CHECK.dir
