@@ -31,7 +31,6 @@ private:
 
 public:
 
-    
     TStack() : pMem(nullptr), top(-1), capacity(0) {}
 
     
@@ -138,7 +137,6 @@ public:
         }
         return istr;
     }
-
     // Вывод
     friend ostream& operator<<(ostream& ostr, const TStack& s) {
         ostr << "Stack (top -> bottom): ";

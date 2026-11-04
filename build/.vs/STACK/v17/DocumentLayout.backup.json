@@ -3,10 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Stack\\project_stack\\build\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Stack\\project_stack\\include\\t_stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0538EC15-FE63-3505-8721-7A68242BB8B7}|stack_app.vcxproj|C:\\Users\\user\\Desktop\\Stack\\project_stack\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0538EC15-FE63-3505-8721-7A68242BB8B7}|stack_app.vcxproj|C:\\Users\\user\\Desktop\\Stack\\project_stack\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0538EC15-FE63-3505-8721-7A68242BB8B7}|stack_app.vcxproj|C:\\USERS\\USER\\DESKTOP\\STACK\\PROJECT_STACK\\INCLUDE\\T_STACK.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0538EC15-FE63-3505-8721-7A68242BB8B7}|stack_app.vcxproj|C:\\Users\\user\\Desktop\\Stack\\project_stack\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,7 +19,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,28 +27,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "t_stack.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Stack\\project_stack\\include\\t_stack.h",
               "RelativeDocumentMoniker": "..\\include\\t_stack.h",
               "ToolTip": "C:\\Users\\user\\Desktop\\Stack\\project_stack\\include\\t_stack.h",
               "RelativeToolTip": "..\\include\\t_stack.h",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAAAHAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-28T20:17:44.321Z",
+              "WhenOpened": "2026-11-04T14:05:13.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Stack\\project_stack\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "..\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Stack\\project_stack\\CMakeLists.txt",
+              "RelativeToolTip": "..\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-04T14:05:02.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Stack\\project_stack\\src\\main.cpp",
               "RelativeDocumentMoniker": "..\\src\\main.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\Stack\\project_stack\\src\\main.cpp",
               "RelativeToolTip": "..\\src\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwGwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-28T20:15:10.553Z",
+              "WhenOpened": "2026-11-04T14:04:52.521Z",
               "EditorCaption": ""
             }
           ]
